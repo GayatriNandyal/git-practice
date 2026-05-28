@@ -13,6 +13,7 @@ public class FirstTest
 		driver.get("https://www.google.com");
 		System.out.println(driver.getTitle());
 		System.out.println("Git Practice Project - Day 2");
+		System.out.println("Testing on feature branch - Day 2");
 		driver.quit();
 	}
 
