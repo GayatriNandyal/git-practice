@@ -12,6 +12,7 @@ public class FirstTest
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.google.com");
 		System.out.println(driver.getTitle());
+		System.out.println("Git Practice Project - Day 2");
 		driver.quit();
 	}
 
