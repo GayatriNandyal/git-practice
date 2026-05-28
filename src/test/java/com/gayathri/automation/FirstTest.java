@@ -14,6 +14,7 @@ public class FirstTest
 		System.out.println(driver.getTitle());
 		System.out.println("Git Practice Project - Day 2");
 		System.out.println("Testing on feature branch - Day 2");
+		System.out.println("Testing git diff command");
 		driver.quit();
 	}
 
